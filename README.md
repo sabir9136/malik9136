@@ -9,10 +9,10 @@ I have a strong foundation in web development, blockchain, and open source as a 
 
 <p align="left"> 
   <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=CE4630&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=40b682&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
   
   <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=CE4630&style=for-the-badge&labelColor=40b682&logo=star#gh-dark-mode-only"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=40b682&style=for-the-badge&labelColor=40b682&logo=star#gh-dark-mode-only"/></a>
   
   <a href="https://github.com/simplysabir?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
