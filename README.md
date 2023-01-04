@@ -4,7 +4,7 @@
 **`Digital Craftsman (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
-I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India. With over two years of experience in the industry, I have a proven ability to solve  complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise on platforms such as Hashnode. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.
+I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India. With over two years of experience in the industry, I have a proven ability to solve  complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise on platforms such as <a href="https://sabirkhan.hashnode.dev/" target="_blank">Hashnode</a>. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.
 </p>
 
 <p align="left"> 
@@ -45,8 +45,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
   <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
 </p>
 
-
-<br />
+<!-- <br /> -->
 
 <p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
 
